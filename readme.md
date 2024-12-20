@@ -16,6 +16,10 @@ $ env\S**cripts**\activate  **# Windows**
 
 pip install -r requirements.txt
 
+python 1main.py
+
+评分判断日志保存到task_log.txt
+
 ---
 
 评分规则自定义
